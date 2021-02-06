@@ -1,0 +1,1 @@
+{!! $emailActivity->html_content !!}

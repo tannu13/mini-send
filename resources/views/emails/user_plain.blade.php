@@ -1,0 +1,1 @@
+{{ $emailActivity->text_content }}
